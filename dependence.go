@@ -6,5 +6,5 @@ package dependence
 
 
 func GetVersion() string{
-	return "dependence version is v1.1.0"
+	return "dependence version is v1.0.0"
 }
