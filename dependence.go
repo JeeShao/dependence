@@ -4,7 +4,6 @@
  */
 package dependence
 
-
-func GetVersion() string{
-	return "dependence version is v1.0.0"
+func GetVersion() string {
+	return "dependence version is v1.1.1"
 }
